@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ssc-cgl-2026",
+    "title": "Combined Graduate Level Examination 2026",
+    "department": "Staff Selection Commission (SSC)",
+    "category": "SSC",
+    "categoryColor": "purple",
+    "location": "All India",
+    "vacancies": 4823,
+    "postNames": ["Assistant Section Officer", "Inspector", "Sub Inspector", "Auditor", "Tax Assistant"],
+    "fees": {
+      "general": 100,
+      "obcEws": 100,
+      "scStPwd": 0,
+      "female": 0,
+      "paymentMode": "Online (Net Banking / Debit / Credit Card / UPI)"
+    },
+    "ageLimit": {
+      "min": 18,
+      "max": 32,
+      "relaxation": "OBC +3 years, SC/ST +5 years, PwBD +10 years, as per Govt norms"
+    },
+    "importantDates": {
+      "notificationDate": "2026-08-10",
+      "applicationStart": "2026-08-10",
+      "applicationEnd": "2026-09-09",
+      "lastDateFeePayment": "2026-09-10",
+      "tier1ExamDate": "2026-10-20",
+      "admitCardDate": "2026-10-10"
+    },
+    "eligibility": [
+      "Bachelor's Degree in any discipline from a recognised University",
+      "Candidates in the final year of graduation may also apply provisionally",
+      "Specific posts require additional qualifications — check official notification"
+    ],
+    "howToApply": [
+      "Visit the official SSC website and register using a valid email ID and mobile number",
+      "Fill in personal, educational and category details carefully",
+      "Upload scanned photograph and signature as per specifications",
+      "Pay the application fee online (if applicable)",
+      "Submit the form and save/print the confirmation page for future reference"
+    ],
+    "description": "The Staff Selection Commission has released the notification for Combined Graduate Level (CGL) Examination 2026 to fill various Group B and Group C posts in different Ministries, Departments and Organisations of the Government of India. This is one of the most awaited recruitment drives of the year, offering opportunities across multiple central government departments.",
+    "applyLink": "https://ssc.nic.in/apply",
+    "officialWebsite": "https://ssc.nic.in",
+    "notificationPdf": "https://ssc.nic.in/notification/cgl-2026.pdf",
+    "selectionProcess": ["Tier I - Computer Based Exam", "Tier II - Computer Based Exam", "Document Verification"],
+    "examPattern": "Objective type, computer-based test covering General Intelligence, Quantitative Aptitude, English Comprehension and General Awareness"
+  },
+  {
+    "id": "irctc-ntpc-2026",
+    "title": "Non-Technical Popular Categories (NTPC) Recruitment 2026",
+    "department": "Railway Recruitment Board (RRB)",
+    "category": "Railway",
+    "categoryColor": "red",
+    "location": "All India",
+    "vacancies": 11558,
+    "postNames": ["Station Master", "Goods Guard", "Junior Clerk cum Typist", "Commercial Apprentice"],
+    "fees": {
+      "general": 500,
+      "obcEws": 500,
+      "scStPwd": 250,
+      "female": 250,
+      "paymentMode": "Online only; fee partially refundable on appearing for exam"
+    },
+    "ageLimit": {
+      "min": 18,
+      "max": 33,
+      "relaxation": "OBC +3 years, SC/ST +5 years, as per RRB norms"
+    },
+    "importantDates": {
+      "notificationDate": "2026-08-05",
+      "applicationStart": "2026-08-12",
+      "applicationEnd": "2026-09-15",
+      "lastDateFeePayment": "2026-09-17",
+      "tier1ExamDate": "2026-11-05",
+      "admitCardDate": "2026-10-25"
+    },
+    "eligibility": [
+      "Graduate / Undergraduate depending on the post applied for",
+      "Candidates must meet post-specific educational qualifications listed in the official notification"
+    ],
+    "howToApply": [
+      "Register on the official RRB website with basic details",
+      "Login and complete the application form with education and address details",
+      "Upload photograph and signature in prescribed format",
+      "Pay the requisite fee through available online modes",
+      "Submit and download the confirmation slip"
+    ],
+    "description": "Railway Recruitment Boards across India have jointly announced vacancies under the Non-Technical Popular Categories (NTPC) for various posts including Station Master, Goods Guard and Commercial Apprentice. This is one of the largest recruitment drives conducted by Indian Railways, attracting lakhs of applicants every cycle.",
+    "applyLink": "https://www.rrbcdg.gov.in/apply",
+    "officialWebsite": "https://www.rrbcdg.gov.in",
+    "notificationPdf": "https://www.rrbcdg.gov.in/notification/ntpc-2026.pdf",
+    "selectionProcess": ["CBT 1", "CBT 2", "Typing Skill Test / Aptitude Test", "Document Verification", "Medical Examination"],
+    "examPattern": "Computer Based Test with sections on Mathematics, General Intelligence & Reasoning, General Awareness"
+  },
+  {
+    "id": "sbi-po-2026",
+    "title": "Probationary Officer (PO) Recruitment 2026",
+    "department": "State Bank of India (SBI)",
+    "category": "Bank",
+    "categoryColor": "blue",
+    "location": "All India",
+    "vacancies": 1600,
+    "postNames": ["Probationary Officer"],
+    "fees": {
+      "general": 750,
+      "obcEws": 750,
+      "scStPwd": 0,
+      "female": 0,
+      "paymentMode": "Online (Debit/Credit Card, Net Banking, UPI)"
+    },
+    "ageLimit": {
+      "min": 21,
+      "max": 30,
+      "relaxation": "As per Government of India / SBI norms for reserved categories"
+    },
+    "importantDates": {
+      "notificationDate": "2026-08-18",
+      "applicationStart": "2026-08-20",
+      "applicationEnd": "2026-09-12",
+      "lastDateFeePayment": "2026-09-12",
+      "tier1ExamDate": "2026-10-05",
+      "admitCardDate": "2026-09-25"
+    },
+    "eligibility": [
+      "Graduation in any discipline from a recognised university",
+      "Final year students awaiting results may apply provisionally"
+    ],
+    "howToApply": [
+      "Go to the official SBI careers portal and click on the PO recruitment link",
+      "Fill the online application form with personal and academic details",
+      "Upload photograph, signature and other documents as specified",
+      "Pay the application fee online",
+      "Submit the application and retain the printout for future correspondence"
+    ],
+    "description": "State Bank of India has invited online applications from eligible candidates for recruitment to the post of Probationary Officer (PO). Selected candidates will undergo training and be posted across various branches of the bank throughout the country.",
+    "applyLink": "https://sbi.co.in/careers/apply",
+    "officialWebsite": "https://sbi.co.in/careers",
+    "notificationPdf": "https://sbi.co.in/careers/notification/po-2026.pdf",
+    "selectionProcess": ["Preliminary Exam", "Main Exam", "Group Exercise & Interview"],
+    "examPattern": "Objective test for Prelims; Objective + Descriptive for Mains; Group Discussion and Interview for final selection"
+  },
+  {
+    "id": "upsc-cse-2026",
+    "title": "Civil Services Examination (CSE) 2026",
+    "department": "Union Public Service Commission (UPSC)",
+    "category": "UPSC",
+    "categoryColor": "amber",
+    "location": "All India",
+    "vacancies": 980,
+    "postNames": ["IAS", "IPS", "IFS", "IRS", "Other Central Services"],
+    "fees": {
+      "general": 100,
+      "obcEws": 100,
+      "scStPwd": 0,
+      "female": 0,
+      "paymentMode": "Online / Offline (SBI Challan)"
+    },
+    "ageLimit": {
+      "min": 21,
+      "max": 32,
+      "relaxation": "OBC +3 years, SC/ST +5 years, as per UPSC norms"
+    },
+    "importantDates": {
+      "notificationDate": "2026-08-01",
+      "applicationStart": "2026-08-01",
+      "applicationEnd": "2026-08-21",
+      "lastDateFeePayment": "2026-08-21",
+      "tier1ExamDate": "2026-12-01",
+      "admitCardDate": "2026-11-10"
+    },
+    "eligibility": [
+      "Bachelor's degree from a recognised university in any discipline",
+      "Candidates appearing in the final year exam are also eligible to apply"
+    ],
+    "howToApply": [
+      "Register on the official UPSC online application portal (OTR)",
+      "Complete Part I and Part II of the application form",
+      "Upload photograph and signature as per guidelines",
+      "Pay the examination fee where applicable",
+      "Print the application summary for records"
+    ],
+    "description": "The Union Public Service Commission has announced the Civil Services Examination 2026 for recruitment to prestigious All India Services including IAS, IPS and IFS along with various Central Group A and Group B services. The exam is conducted in three stages: Preliminary, Main and Interview.",
+    "applyLink": "https://upsconline.gov.in/apply",
+    "officialWebsite": "https://upsc.gov.in",
+    "notificationPdf": "https://upsc.gov.in/notification/cse-2026.pdf",
+    "selectionProcess": ["Preliminary Examination", "Main Examination", "Personality Test (Interview)"],
+    "examPattern": "Objective type for Prelims (General Studies + CSAT); Descriptive/Written for Mains across 9 papers"
+  },
+  {
+    "id": "state-police-constable-2026",
+    "title": "Police Constable Recruitment 2026",
+    "department": "State Police Department",
+    "category": "Police",
+    "categoryColor": "orange",
+    "location": "Maharashtra",
+    "vacancies": 6500,
+    "postNames": ["Police Constable", "Police Constable (Driver)"],
+    "fees": {
+      "general": 350,
+      "obcEws": 350,
+      "scStPwd": 250,
+      "female": 250,
+      "paymentMode": "Online (Net Banking / UPI / Cards)"
+    },
+    "ageLimit": {
+      "min": 18,
+      "max": 28,
+      "relaxation": "As per State Government reservation policy"
+    },
+    "importantDates": {
+      "notificationDate": "2026-07-28",
+      "applicationStart": "2026-08-02",
+      "applicationEnd": "2026-08-31",
+      "lastDateFeePayment": "2026-08-31",
+      "tier1ExamDate": "2026-10-12",
+      "admitCardDate": "2026-09-30"
+    },
+    "eligibility": [
+      "Higher Secondary (12th) pass from a recognised board",
+      "Candidates must meet the prescribed physical standards (height, chest, endurance test)"
+    ],
+    "howToApply": [
+      "Visit the State Police recruitment portal and create a login",
+      "Fill in personal, physical and educational details",
+      "Upload photograph, signature and category certificates",
+      "Pay the applicable fee online",
+      "Submit the form and download the acknowledgement"
+    ],
+    "description": "The State Police Department has announced a large-scale recruitment drive for the post of Police Constable across various districts. The selection process includes a written examination, physical efficiency test and medical examination.",
+    "applyLink": "https://mahapolice.gov.in/apply",
+    "officialWebsite": "https://mahapolice.gov.in",
+    "notificationPdf": "https://mahapolice.gov.in/notification/constable-2026.pdf",
+    "selectionProcess": ["Physical Measurement Test", "Physical Efficiency Test", "Written Examination", "Medical Examination"],
+    "examPattern": "Objective type written test covering General Knowledge, Reasoning, Arithmetic and Marathi/English Language"
+  },
+  {
+    "id": "iocl-apprentice-2026",
+    "title": "Trade & Technician Apprentice Recruitment 2026",
+    "department": "Indian Oil Corporation Limited (IOCL)",
+    "category": "PSU",
+    "categoryColor": "teal",
+    "location": "Multiple States",
+    "vacancies": 1750,
+    "postNames": ["Trade Apprentice", "Technician Apprentice", "Graduate Apprentice"],
+    "fees": {
+      "general": 0,
+      "obcEws": 0,
+      "scStPwd": 0,
+      "female": 0,
+      "paymentMode": "No application fee"
+    },
+    "ageLimit": {
+      "min": 18,
+      "max": 24,
+      "relaxation": "OBC +3 years, SC/ST +5 years, PwBD +10 years"
+    },
+    "importantDates": {
+      "notificationDate": "2026-08-14",
+      "applicationStart": "2026-08-16",
+      "applicationEnd": "2026-09-05",
+      "lastDateFeePayment": "N/A",
+      "tier1ExamDate": "2026-10-01",
+      "admitCardDate": "2026-09-20"
+    },
+    "eligibility": [
+      "ITI in relevant trade / Diploma / Graduate depending on the apprenticeship category",
+      "Candidates should not have undergone apprenticeship training earlier under the Apprentices Act"
+    ],
+    "howToApply": [
+      "Register on the Apprenticeship India portal (NATS/NAPS)",
+      "Link your profile with the IOCL apprentice notification",
+      "Fill in trade preference, qualification and personal details",
+      "Upload required documents and certificates",
+      "Submit the application before the last date"
+    ],
+    "description": "Indian Oil Corporation Limited invites applications from eligible candidates for engagement as Trade Apprentices and Technician Apprentices at various plants, terminals and offices under the Apprentices Act, 1961. No application fee is charged for this recruitment.",
+    "applyLink": "https://iocl.com/careers/apprentice/apply",
+    "officialWebsite": "https://iocl.com/careers",
+    "notificationPdf": "https://iocl.com/careers/notification/apprentice-2026.pdf",
+    "selectionProcess": ["Merit List based on Qualifying Exam Marks", "Document Verification", "Medical Examination"],
+    "examPattern": "No written exam; selection primarily on merit of qualifying examination marks"
+  },
+  {
+    "id": "nios-teacher-2026",
+    "title": "Post Graduate Teacher (PGT) & Trained Graduate Teacher (TGT) Recruitment 2026",
+    "department": "State Education Department",
+    "category": "Teaching",
+    "categoryColor": "cyan",
+    "location": "Madhya Pradesh",
+    "vacancies": 3200,
+    "postNames": ["Post Graduate Teacher", "Trained Graduate Teacher"],
+    "fees": {
+      "general": 500,
+      "obcEws": 500,
+      "scStPwd": 250,
+      "female": 250,
+      "paymentMode": "Online (Net Banking / Debit Card)"
+    },
+    "ageLimit": {
+      "min": 21,
+      "max": 40,
+      "relaxation": "As per State Government norms for reserved categories"
+    },
+    "importantDates": {
+      "notificationDate": "2026-08-08",
+      "applicationStart": "2026-08-11",
+      "applicationEnd": "2026-09-10",
+      "lastDateFeePayment": "2026-09-10",
+      "tier1ExamDate": "2026-10-25",
+      "admitCardDate": "2026-10-12"
+    },
+    "eligibility": [
+      "Postgraduate degree in relevant subject with B.Ed for PGT posts",
+      "Graduate degree in relevant subject with B.Ed for TGT posts",
+      "Must qualify the applicable Teacher Eligibility Test (TET)"
+    ],
+    "howToApply": [
+      "Visit the State Education Department recruitment portal",
+      "Register and fill in academic, professional and personal details",
+      "Upload scanned copies of certificates, photograph and signature",
+      "Pay the examination fee as applicable",
+      "Submit the form and save the confirmation receipt"
+    ],
+    "description": "The State Education Department has released vacancies for Post Graduate Teachers and Trained Graduate Teachers across government schools. This recruitment aims to fill long-pending teaching vacancies in various subjects at the secondary and higher secondary level.",
+    "applyLink": "https://educationportal.mp.gov.in/apply",
+    "officialWebsite": "https://educationportal.mp.gov.in",
+    "notificationPdf": "https://educationportal.mp.gov.in/notification/pgt-tgt-2026.pdf",
+    "selectionProcess": ["Written Examination", "Document Verification", "Merit List"],
+    "examPattern": "Objective type test covering subject knowledge, pedagogy and general awareness"
+  },
+  {
+    "id": "aiims-nursing-officer-2026",
+    "title": "Nursing Officer Recruitment 2026",
+    "department": "All India Institute of Medical Sciences (AIIMS)",
+    "category": "Medical",
+    "categoryColor": "rose",
+    "location": "Delhi",
+    "vacancies": 890,
+    "postNames": ["Nursing Officer"],
+    "fees": {
+      "general": 1500,
+      "obcEws": 1500,
+      "scStPwd": 1200,
+      "female": 1200,
+      "paymentMode": "Online (Net Banking / Cards / UPI)"
+    },
+    "ageLimit": {
+      "min": 21,
+      "max": 30,
+      "relaxation": "OBC +3 years, SC/ST +5 years, as per AIIMS norms"
+    },
+    "importantDates": {
+      "notificationDate": "2026-08-20",
+      "applicationStart": "2026-08-22",
+      "applicationEnd": "2026-09-20",
+      "lastDateFeePayment": "2026-09-20",
+      "tier1ExamDate": "2026-11-15",
+      "admitCardDate": "2026-11-01"
+    },
+    "eligibility": [
+      "B.Sc (Hons) Nursing / B.Sc Nursing / Post Basic B.Sc Nursing from a recognised institute",
+      "Registration with State Nursing Council or Indian Nursing Council is mandatory"
+    ],
+    "howToApply": [
+      "Visit the AIIMS recruitment portal and register with valid credentials",
+      "Complete the application form with educational and professional details",
+      "Upload photograph, signature and nursing council registration certificate",
+      "Pay the application fee online",
+      "Submit and print the application form for future reference"
+    ],
+    "description": "AIIMS New Delhi has announced recruitment for the post of Nursing Officer across its various centres. This is a golden opportunity for qualified nursing professionals to join one of the premier medical institutes of the country.",
+    "applyLink": "https://aiims.edu/careers/apply",
+    "officialWebsite": "https://aiims.edu",
+    "notificationPdf": "https://aiims.edu/notification/nursing-officer-2026.pdf",
+    "selectionProcess": ["Computer Based Test", "Document Verification"],
+    "examPattern": "Objective type test covering Nursing subjects, General Knowledge and Reasoning"
+  }
+]
