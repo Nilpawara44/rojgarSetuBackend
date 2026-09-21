@@ -32,6 +32,24 @@ const importantDatesSchema = new mongoose.Schema(
   { _id: false }
 );
 
+const baseSalarySchema = new mongoose.Schema(
+  {
+    min: { type: Number },
+    max: { type: Number },
+    period: { type: String, default: "MONTHLY", trim: true }, // e.g. MONTHLY, YEARLY — matches schema.org unitText conventions
+    label: { type: String, default: "", trim: true } // display string, e.g. "₹25,500 – ₹81,100 per month (Pay Level 4–7)"
+  },
+  { _id: false }
+);
+
+const faqSchema = new mongoose.Schema(
+  {
+    question: { type: String, required: true, trim: true },
+    answer: { type: String, required: true, trim: true }
+  },
+  { _id: false }
+);
+
 const jobSchema = new mongoose.Schema(
   {
     // URL-friendly unique identifier, e.g. "ssc-cgl-2026" — this is what the
@@ -61,6 +79,13 @@ const jobSchema = new mongoose.Schema(
     notificationPdf: { type: String, default: "", trim: true },
     selectionProcess: { type: [String], default: [] },
     examPattern: { type: String, default: "", trim: true },
+    // SEO fields — used for meta descriptions, JobPosting/FAQPage structured
+    // data, and richer job-details content. All optional so existing jobs
+    // and API consumers keep working if a listing doesn't set them yet.
+    shortDescription: { type: String, default: "", trim: true },
+    dateModified: { type: String, trim: true },
+    baseSalary: { type: baseSalarySchema }, // left unset (not an empty object) when a job has no salary data
+    faqs: { type: [faqSchema], default: [] },
     isPublished: { type: Boolean, default: true },
     createdBy: { type: mongoose.Schema.Types.ObjectId, ref: "Admin" }
   },

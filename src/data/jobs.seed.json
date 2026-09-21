@@ -7,7 +7,13 @@
     "categoryColor": "purple",
     "location": "All India",
     "vacancies": 4823,
-    "postNames": ["Assistant Section Officer", "Inspector", "Sub Inspector", "Auditor", "Tax Assistant"],
+    "postNames": [
+      "Assistant Section Officer",
+      "Inspector",
+      "Sub Inspector",
+      "Auditor",
+      "Tax Assistant"
+    ],
     "fees": {
       "general": 100,
       "obcEws": 100,
@@ -44,8 +50,42 @@
     "applyLink": "https://ssc.nic.in/apply",
     "officialWebsite": "https://ssc.nic.in",
     "notificationPdf": "https://ssc.nic.in/notification/cgl-2026.pdf",
-    "selectionProcess": ["Tier I - Computer Based Exam", "Tier II - Computer Based Exam", "Document Verification"],
-    "examPattern": "Objective type, computer-based test covering General Intelligence, Quantitative Aptitude, English Comprehension and General Awareness"
+    "selectionProcess": [
+      "Tier I - Computer Based Exam",
+      "Tier II - Computer Based Exam",
+      "Document Verification"
+    ],
+    "examPattern": "Objective type, computer-based test covering General Intelligence, Quantitative Aptitude, English Comprehension and General Awareness",
+    "shortDescription": "SSC has released 4,823 Group B and C vacancies across central government departments through the CGL 2026 exam.",
+    "dateModified": "2026-08-10",
+    "baseSalary": {
+      "min": 25500,
+      "max": 81100,
+      "period": "MONTHLY",
+      "label": "₹25,500 – ₹81,100 per month (7th CPC Pay Level 4–7, post-dependent)"
+    },
+    "faqs": [
+      {
+        "question": "What is SSC CGL 2026?",
+        "answer": "SSC CGL (Combined Graduate Level) 2026 is a national-level exam conducted by the Staff Selection Commission to fill 4,823 Group B and Group C posts such as Assistant Section Officer, Inspector, Sub Inspector, Auditor and Tax Assistant across various central government departments."
+      },
+      {
+        "question": "Who is eligible to apply for SSC CGL 2026?",
+        "answer": "Candidates need a Bachelor's degree in any discipline from a recognised university. Those in their final year of graduation can also apply provisionally, though some posts carry additional qualification requirements listed in the official notification."
+      },
+      {
+        "question": "What is the last date to apply for SSC CGL 2026?",
+        "answer": "The online application window closes on 9 September 2026, with fee payment accepted until 10 September 2026."
+      },
+      {
+        "question": "How much is the SSC CGL 2026 application fee?",
+        "answer": "The fee is ₹100 for General and OBC/EWS candidates. SC, ST, PwBD candidates and all female candidates are exempt from paying any fee."
+      },
+      {
+        "question": "What is the selection process for SSC CGL 2026?",
+        "answer": "Selection happens in three stages: a Tier I computer-based exam, a Tier II computer-based exam, and a final document verification round."
+      }
+    ]
   },
   {
     "id": "irctc-ntpc-2026",
@@ -55,7 +95,12 @@
     "categoryColor": "red",
     "location": "All India",
     "vacancies": 11558,
-    "postNames": ["Station Master", "Goods Guard", "Junior Clerk cum Typist", "Commercial Apprentice"],
+    "postNames": [
+      "Station Master",
+      "Goods Guard",
+      "Junior Clerk cum Typist",
+      "Commercial Apprentice"
+    ],
     "fees": {
       "general": 500,
       "obcEws": 500,
@@ -91,8 +136,44 @@
     "applyLink": "https://www.rrbcdg.gov.in/apply",
     "officialWebsite": "https://www.rrbcdg.gov.in",
     "notificationPdf": "https://www.rrbcdg.gov.in/notification/ntpc-2026.pdf",
-    "selectionProcess": ["CBT 1", "CBT 2", "Typing Skill Test / Aptitude Test", "Document Verification", "Medical Examination"],
-    "examPattern": "Computer Based Test with sections on Mathematics, General Intelligence & Reasoning, General Awareness"
+    "selectionProcess": [
+      "CBT 1",
+      "CBT 2",
+      "Typing Skill Test / Aptitude Test",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "examPattern": "Computer Based Test with sections on Mathematics, General Intelligence & Reasoning, General Awareness",
+    "shortDescription": "Indian Railways is hiring 11,558 candidates for Station Master, Goods Guard and other NTPC posts nationwide.",
+    "dateModified": "2026-08-06",
+    "baseSalary": {
+      "min": 19900,
+      "max": 63200,
+      "period": "MONTHLY",
+      "label": "₹19,900 – ₹63,200 per month (7th CPC Pay Level 2–6, post-dependent)"
+    },
+    "faqs": [
+      {
+        "question": "How many vacancies does RRB NTPC 2026 have?",
+        "answer": "Railway Recruitment Boards across the country have jointly announced 11,558 vacancies under the Non-Technical Popular Categories (NTPC), covering posts like Station Master, Goods Guard, Junior Clerk cum Typist and Commercial Apprentice."
+      },
+      {
+        "question": "What qualification is needed for RRB NTPC 2026?",
+        "answer": "The required qualification depends on the specific post — some require a graduate degree while others accept an undergraduate/12th-pass qualification. Check the post-wise breakdown in the official notification before applying."
+      },
+      {
+        "question": "What is the application fee for RRB NTPC 2026?",
+        "answer": "General and OBC/EWS candidates pay ₹500, while SC, ST, PwBD and female candidates pay ₹250. Part of the fee is refundable to candidates who appear for the exam."
+      },
+      {
+        "question": "When is the RRB NTPC 2026 exam?",
+        "answer": "The first-stage Computer Based Test (CBT 1) is scheduled for 5 November 2026, with admit cards expected around 25 October 2026."
+      },
+      {
+        "question": "What is the RRB NTPC 2026 selection process?",
+        "answer": "Candidates go through CBT 1, CBT 2, a typing skill or aptitude test depending on the post, document verification, and a final medical examination."
+      }
+    ]
   },
   {
     "id": "sbi-po-2026",
@@ -102,7 +183,9 @@
     "categoryColor": "blue",
     "location": "All India",
     "vacancies": 1600,
-    "postNames": ["Probationary Officer"],
+    "postNames": [
+      "Probationary Officer"
+    ],
     "fees": {
       "general": 750,
       "obcEws": 750,
@@ -138,8 +221,42 @@
     "applyLink": "https://sbi.co.in/careers/apply",
     "officialWebsite": "https://sbi.co.in/careers",
     "notificationPdf": "https://sbi.co.in/careers/notification/po-2026.pdf",
-    "selectionProcess": ["Preliminary Exam", "Main Exam", "Group Exercise & Interview"],
-    "examPattern": "Objective test for Prelims; Objective + Descriptive for Mains; Group Discussion and Interview for final selection"
+    "selectionProcess": [
+      "Preliminary Exam",
+      "Main Exam",
+      "Group Exercise & Interview"
+    ],
+    "examPattern": "Objective test for Prelims; Objective + Descriptive for Mains; Group Discussion and Interview for final selection",
+    "shortDescription": "State Bank of India is recruiting 1,600 Probationary Officers to be posted at branches nationwide.",
+    "dateModified": "2026-08-19",
+    "baseSalary": {
+      "min": 48480,
+      "max": 85000,
+      "period": "MONTHLY",
+      "label": "₹48,480 starting basic pay, gross emoluments approx. ₹85,000/month with allowances"
+    },
+    "faqs": [
+      {
+        "question": "What is the SBI PO 2026 recruitment about?",
+        "answer": "State Bank of India is hiring 1,600 Probationary Officers who will undergo training before being posted to branches across the country. It's one of the most sought-after banking exams in India."
+      },
+      {
+        "question": "What is the eligibility for SBI PO 2026?",
+        "answer": "You need a graduation degree in any discipline from a recognised university. Candidates awaiting their final-year results can also apply provisionally."
+      },
+      {
+        "question": "What is the age limit for SBI PO 2026?",
+        "answer": "Candidates must be between 21 and 30 years old, with age relaxation available for reserved categories as per Government of India and SBI norms."
+      },
+      {
+        "question": "What is the last date to apply for SBI PO 2026?",
+        "answer": "Applications close on 12 September 2026, with the preliminary exam tentatively scheduled for 5 October 2026."
+      },
+      {
+        "question": "What is the SBI PO 2026 selection process?",
+        "answer": "Selection involves a Preliminary exam, followed by a Main exam, and finally a Group Exercise and Interview round for candidates who clear both stages."
+      }
+    ]
   },
   {
     "id": "upsc-cse-2026",
@@ -149,7 +266,13 @@
     "categoryColor": "amber",
     "location": "All India",
     "vacancies": 980,
-    "postNames": ["IAS", "IPS", "IFS", "IRS", "Other Central Services"],
+    "postNames": [
+      "IAS",
+      "IPS",
+      "IFS",
+      "IRS",
+      "Other Central Services"
+    ],
     "fees": {
       "general": 100,
       "obcEws": 100,
@@ -185,8 +308,42 @@
     "applyLink": "https://upsconline.gov.in/apply",
     "officialWebsite": "https://upsc.gov.in",
     "notificationPdf": "https://upsc.gov.in/notification/cse-2026.pdf",
-    "selectionProcess": ["Preliminary Examination", "Main Examination", "Personality Test (Interview)"],
-    "examPattern": "Objective type for Prelims (General Studies + CSAT); Descriptive/Written for Mains across 9 papers"
+    "selectionProcess": [
+      "Preliminary Examination",
+      "Main Examination",
+      "Personality Test (Interview)"
+    ],
+    "examPattern": "Objective type for Prelims (General Studies + CSAT); Descriptive/Written for Mains across 9 papers",
+    "shortDescription": "UPSC has opened 980 vacancies for IAS, IPS, IFS and other prestigious All India and Central Services via CSE 2026.",
+    "dateModified": "2026-08-01",
+    "baseSalary": {
+      "min": 56100,
+      "max": 56100,
+      "period": "MONTHLY",
+      "label": "₹56,100 starting basic pay (7th CPC Pay Level 10) for entry-level officers"
+    },
+    "faqs": [
+      {
+        "question": "What is UPSC CSE 2026?",
+        "answer": "The Civil Services Examination (CSE) 2026 is conducted by the Union Public Service Commission to recruit officers for prestigious All India Services (IAS, IPS, IFS) and various Central Group A and B services, with 980 vacancies announced this year."
+      },
+      {
+        "question": "What qualification do I need for UPSC CSE 2026?",
+        "answer": "A Bachelor's degree from a recognised university in any discipline is required. Candidates appearing in their final year exams are also allowed to apply."
+      },
+      {
+        "question": "What is the age limit for UPSC CSE 2026?",
+        "answer": "Candidates must be between 21 and 32 years of age, with relaxations of 3 years for OBC and 5 years for SC/ST candidates as per UPSC rules."
+      },
+      {
+        "question": "When is the last date to apply for UPSC CSE 2026?",
+        "answer": "The application window closes on 21 August 2026, and this is also the last date for fee payment."
+      },
+      {
+        "question": "What are the stages of the UPSC CSE 2026 exam?",
+        "answer": "The exam has three stages: the Preliminary Examination (objective), the Main Examination (descriptive, across 9 papers), and finally a Personality Test, commonly known as the interview."
+      }
+    ]
   },
   {
     "id": "state-police-constable-2026",
@@ -196,7 +353,10 @@
     "categoryColor": "orange",
     "location": "Maharashtra",
     "vacancies": 6500,
-    "postNames": ["Police Constable", "Police Constable (Driver)"],
+    "postNames": [
+      "Police Constable",
+      "Police Constable (Driver)"
+    ],
     "fees": {
       "general": 350,
       "obcEws": 350,
@@ -232,8 +392,43 @@
     "applyLink": "https://mahapolice.gov.in/apply",
     "officialWebsite": "https://mahapolice.gov.in",
     "notificationPdf": "https://mahapolice.gov.in/notification/constable-2026.pdf",
-    "selectionProcess": ["Physical Measurement Test", "Physical Efficiency Test", "Written Examination", "Medical Examination"],
-    "examPattern": "Objective type written test covering General Knowledge, Reasoning, Arithmetic and Marathi/English Language"
+    "selectionProcess": [
+      "Physical Measurement Test",
+      "Physical Efficiency Test",
+      "Written Examination",
+      "Medical Examination"
+    ],
+    "examPattern": "Objective type written test covering General Knowledge, Reasoning, Arithmetic and Marathi/English Language",
+    "shortDescription": "Maharashtra Police is recruiting 6,500 Constables across districts, including driver posts, with PET and written exam.",
+    "dateModified": "2026-07-29",
+    "baseSalary": {
+      "min": 21700,
+      "max": 69100,
+      "period": "MONTHLY",
+      "label": "₹21,700 – ₹69,100 per month (7th CPC Pay Level 3, State Police pay scale)"
+    },
+    "faqs": [
+      {
+        "question": "How many Police Constable vacancies are there in Maharashtra 2026?",
+        "answer": "The State Police Department has announced 6,500 vacancies for Police Constable and Police Constable (Driver) posts across various districts in Maharashtra."
+      },
+      {
+        "question": "What is the educational qualification for Police Constable recruitment?",
+        "answer": "Candidates need to have passed Higher Secondary (12th standard) from a recognised board, and must also meet the prescribed physical standards for height, chest measurement and an endurance test."
+      },
+      {
+        "question": "What is the age limit for Maharashtra Police Constable 2026?",
+        "answer": "Candidates should be between 18 and 28 years old, with relaxation applicable as per the State Government's reservation policy."
+      },
+      {
+        "question": "What is the selection process for Police Constable recruitment?",
+        "answer": "The process includes a Physical Measurement Test, a Physical Efficiency Test, a written examination, and a final medical examination."
+      },
+      {
+        "question": "When is the last date to apply for Police Constable 2026?",
+        "answer": "Applications close on 31 August 2026, with the written exam tentatively scheduled for 12 October 2026."
+      }
+    ]
   },
   {
     "id": "iocl-apprentice-2026",
@@ -243,7 +438,11 @@
     "categoryColor": "teal",
     "location": "Multiple States",
     "vacancies": 1750,
-    "postNames": ["Trade Apprentice", "Technician Apprentice", "Graduate Apprentice"],
+    "postNames": [
+      "Trade Apprentice",
+      "Technician Apprentice",
+      "Graduate Apprentice"
+    ],
     "fees": {
       "general": 0,
       "obcEws": 0,
@@ -279,8 +478,42 @@
     "applyLink": "https://iocl.com/careers/apprentice/apply",
     "officialWebsite": "https://iocl.com/careers",
     "notificationPdf": "https://iocl.com/careers/notification/apprentice-2026.pdf",
-    "selectionProcess": ["Merit List based on Qualifying Exam Marks", "Document Verification", "Medical Examination"],
-    "examPattern": "No written exam; selection primarily on merit of qualifying examination marks"
+    "selectionProcess": [
+      "Merit List based on Qualifying Exam Marks",
+      "Document Verification",
+      "Medical Examination"
+    ],
+    "examPattern": "No written exam; selection primarily on merit of qualifying examination marks",
+    "shortDescription": "IOCL is offering 1,750 Trade and Technician Apprentice positions across India with no application fee.",
+    "dateModified": "2026-08-14",
+    "baseSalary": {
+      "min": 20000,
+      "max": 25000,
+      "period": "MONTHLY",
+      "label": "₹20,000 – ₹25,000 per month stipend (varies by trade and apprenticeship category)"
+    },
+    "faqs": [
+      {
+        "question": "What is the IOCL Apprentice 2026 recruitment?",
+        "answer": "Indian Oil Corporation Limited is engaging 1,750 candidates as Trade Apprentices, Technician Apprentices and Graduate Apprentices at its plants, terminals and offices under the Apprentices Act, 1961."
+      },
+      {
+        "question": "Is there an application fee for IOCL Apprentice 2026?",
+        "answer": "No, IOCL is not charging any application fee for this apprenticeship recruitment."
+      },
+      {
+        "question": "What qualification is required for IOCL Apprentice 2026?",
+        "answer": "Depending on the apprenticeship category, you'll need an ITI certificate in a relevant trade, a Diploma, or a Graduate degree. Candidates who have already completed an apprenticeship under the Apprentices Act are not eligible to reapply."
+      },
+      {
+        "question": "How do I apply for IOCL Apprentice 2026?",
+        "answer": "You need to register on the Apprenticeship India portal (NATS/NAPS) and link your profile to the IOCL notification, then fill in your trade preference and upload the required documents before 5 September 2026."
+      },
+      {
+        "question": "What is the selection process for IOCL apprenticeships?",
+        "answer": "There is no written exam — selection is based on merit from your qualifying examination marks, followed by document verification and a medical examination."
+      }
+    ]
   },
   {
     "id": "nios-teacher-2026",
@@ -290,7 +523,10 @@
     "categoryColor": "cyan",
     "location": "Madhya Pradesh",
     "vacancies": 3200,
-    "postNames": ["Post Graduate Teacher", "Trained Graduate Teacher"],
+    "postNames": [
+      "Post Graduate Teacher",
+      "Trained Graduate Teacher"
+    ],
     "fees": {
       "general": 500,
       "obcEws": 500,
@@ -327,8 +563,42 @@
     "applyLink": "https://educationportal.mp.gov.in/apply",
     "officialWebsite": "https://educationportal.mp.gov.in",
     "notificationPdf": "https://educationportal.mp.gov.in/notification/pgt-tgt-2026.pdf",
-    "selectionProcess": ["Written Examination", "Document Verification", "Merit List"],
-    "examPattern": "Objective type test covering subject knowledge, pedagogy and general awareness"
+    "selectionProcess": [
+      "Written Examination",
+      "Document Verification",
+      "Merit List"
+    ],
+    "examPattern": "Objective type test covering subject knowledge, pedagogy and general awareness",
+    "shortDescription": "Madhya Pradesh's Education Department is hiring 3,200 PGT and TGT teachers for government schools statewide.",
+    "dateModified": "2026-08-09",
+    "baseSalary": {
+      "min": 44900,
+      "max": 142400,
+      "period": "MONTHLY",
+      "label": "₹44,900 – ₹1,42,400 per month (7th CPC Pay Level 7–8, PGT/TGT dependent)"
+    },
+    "faqs": [
+      {
+        "question": "How many teaching vacancies are open in Madhya Pradesh 2026?",
+        "answer": "The State Education Department has announced 3,200 vacancies for Post Graduate Teacher (PGT) and Trained Graduate Teacher (TGT) posts in government schools across Madhya Pradesh."
+      },
+      {
+        "question": "What qualification is required for PGT/TGT recruitment?",
+        "answer": "PGT posts require a postgraduate degree in the relevant subject along with a B.Ed, while TGT posts require a graduate degree with B.Ed. All candidates must also qualify the applicable Teacher Eligibility Test (TET)."
+      },
+      {
+        "question": "What is the application fee for PGT/TGT 2026?",
+        "answer": "General and OBC/EWS candidates pay ₹500, while SC, ST, PwBD and female candidates pay a reduced fee of ₹250."
+      },
+      {
+        "question": "When is the last date to apply for PGT/TGT teacher recruitment?",
+        "answer": "Applications must be submitted by 10 September 2026, which is also the deadline for fee payment."
+      },
+      {
+        "question": "What is the selection process for PGT/TGT posts?",
+        "answer": "Selection is based on a written examination covering subject knowledge, pedagogy and general awareness, followed by document verification and a final merit list."
+      }
+    ]
   },
   {
     "id": "aiims-nursing-officer-2026",
@@ -338,7 +608,9 @@
     "categoryColor": "rose",
     "location": "Delhi",
     "vacancies": 890,
-    "postNames": ["Nursing Officer"],
+    "postNames": [
+      "Nursing Officer"
+    ],
     "fees": {
       "general": 1500,
       "obcEws": 1500,
@@ -374,7 +646,40 @@
     "applyLink": "https://aiims.edu/careers/apply",
     "officialWebsite": "https://aiims.edu",
     "notificationPdf": "https://aiims.edu/notification/nursing-officer-2026.pdf",
-    "selectionProcess": ["Computer Based Test", "Document Verification"],
-    "examPattern": "Objective type test covering Nursing subjects, General Knowledge and Reasoning"
+    "selectionProcess": [
+      "Computer Based Test",
+      "Document Verification"
+    ],
+    "examPattern": "Objective type test covering Nursing subjects, General Knowledge and Reasoning",
+    "shortDescription": "AIIMS New Delhi is recruiting 890 Nursing Officers for its centres, open to B.Sc Nursing graduates.",
+    "dateModified": "2026-08-20",
+    "baseSalary": {
+      "min": 44900,
+      "max": 142400,
+      "period": "MONTHLY",
+      "label": "₹44,900 – ₹1,42,400 per month (7th CPC Pay Level 7)"
+    },
+    "faqs": [
+      {
+        "question": "How many Nursing Officer vacancies has AIIMS announced for 2026?",
+        "answer": "AIIMS New Delhi has announced 890 vacancies for the post of Nursing Officer across its various centres."
+      },
+      {
+        "question": "What qualification is needed to apply for AIIMS Nursing Officer 2026?",
+        "answer": "You need a B.Sc (Hons) Nursing, B.Sc Nursing, or Post Basic B.Sc Nursing degree from a recognised institute, along with mandatory registration with the State Nursing Council or Indian Nursing Council."
+      },
+      {
+        "question": "What is the application fee for AIIMS Nursing Officer 2026?",
+        "answer": "The fee is ₹1,500 for General and OBC/EWS candidates, and ₹1,200 for SC, ST, PwBD and female candidates."
+      },
+      {
+        "question": "What is the age limit for AIIMS Nursing Officer recruitment?",
+        "answer": "Candidates must be between 21 and 30 years old, with age relaxation of 3 years for OBC and 5 years for SC/ST candidates as per AIIMS norms."
+      },
+      {
+        "question": "What is the selection process for AIIMS Nursing Officer 2026?",
+        "answer": "Selection is through a Computer Based Test followed by document verification for shortlisted candidates."
+      }
+    ]
   }
 ]
